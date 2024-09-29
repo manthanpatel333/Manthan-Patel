@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Manthan-Patel/static/css/main.db320389.css",
+    "main.js": "/Manthan-Patel/static/js/main.ada66a9f.js",
+    "static/js/453.ad6eb26e.chunk.js": "/Manthan-Patel/static/js/453.ad6eb26e.chunk.js",
+    "index.html": "/Manthan-Patel/index.html",
+    "main.db320389.css.map": "/Manthan-Patel/static/css/main.db320389.css.map",
+    "main.ada66a9f.js.map": "/Manthan-Patel/static/js/main.ada66a9f.js.map",
+    "453.ad6eb26e.chunk.js.map": "/Manthan-Patel/static/js/453.ad6eb26e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db320389.css",
+    "static/js/main.ada66a9f.js"
+  ]
+}
