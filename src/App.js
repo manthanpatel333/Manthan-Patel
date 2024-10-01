@@ -38,10 +38,10 @@ function About() {
       <h1>Hi, my name is</h1>
       <h2>Manthan Patel</h2>
       <div className="work">
-        <p>Work to inspire</p>
+        <p>"Let's Transforming Ideas into Innovation, Securing a Brighter Future."</p>
       </div>
       <div className="about">
-        <p>Innovative Junior Full Stack Developer with expertise in modern web technologies and cloud platforms. Proficient in building scalable, responsive web applications using JavaScript, Python, and various frameworks. I am experienced in DevOps practices and cloud technologies, with a passion for creating efficient, user-friendly solutions.</p>
+        <p>As a versatile professional with expertise in Data Science, Cybersecurity, and Full Stack Development, I bring a unique blend of skills in machine learning, AI, cloud technologies, and web development. With a solid foundation in cybersecurity and an innovative approach to data-driven solutions, I have successfully implemented projects that reduced system vulnerabilities, predicted security threats, and developed efficient, scalable applications. My experience in developing real-time predictive systems and secure platforms using AWS, Docker, and Kubernetes, combined with a strong command of Python, React.js, and DevOps practices, ensures that I can deliver high-impact solutions. I am passionate about solving complex problems and helping businesses thrive through technology. Connect with me to build cutting-edge solutions that enhance security, drive data insights, and improve user experiences.</p>
       </div>
     </div>
   );
