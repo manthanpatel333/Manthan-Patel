@@ -1,6 +1,7 @@
 {
   "name": "my-react-app",
   "version": "1.0.0",
+  "private": true,
   "homepage": "https://manthanpatel333.github.io/Manthan-Patel",
   "dependencies": {
     "bootstrap": "^5.3.3",
