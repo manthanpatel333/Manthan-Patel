@@ -165,7 +165,7 @@ function Contact() {
       <p style={{ fontSize: '1.5rem' }}>(309) 665-9989</p>
       <p style={{ fontSize: '1.5rem' }}>patelmanthan324@gmail.com</p>
       <p style={{ fontSize: '1.5rem' }}><a href="https://www.linkedin.com/in/manthan-patel">LinkedIn Profile</a></p>
-      <p style={{ fontSize: '1.5rem' }}><a href="https://github.com/manthan-patel">GitHub</a></p>
+      <p style={{ fontSize: '1.5rem' }}><a href="https://github.com/manthanpatel333">GitHub</a></p>
     </div>
   );
 }
